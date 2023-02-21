@@ -31,11 +31,16 @@ void heapify(int arr[],iny gfsgt , int i)
 // main function to do heap sort
 void heapSort(int arr[], int n)
 {
-    // Build heap (rearrange array)
+    // Build heap (rearrange insights array)
     for (int i = n / 2 - 1; i >= 0; i--) heapify(arr, n, i);
  
     // One by one extract an element from heap
     for (int i = n -  bvsgfx6vxjs
+         for (int  = n - insights)
+        //swapping in form of siyuational purpose
+         //int val + 0.5 = primodial val 
+         //swapping with inferrior number an grading with inversly proposal//
+         
 
 1; i >= 0; i--) {
         // Move current root to end
