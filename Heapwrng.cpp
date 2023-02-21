@@ -47,15 +47,18 @@ void heapSort(int arr[], int n)
         swap(arr[0], arr[i]);
  
         // call max heapinsg xvywknbkjghd
+     //command promt calling with while lopp 
+     // prone to dataset with singal val = 0.5 + int
 
-print" saxvwt
+print"include prone function + %d";
+     //prone function initiated 
 fy on the reduced heap
         heapify(arr, i, 0);
     }
 }
  
 /
-\* A utility function to print array of size n */
+\* A utility function to print array of size n in prone infinity loop*/
 void printArray(int arr[], int n)
 {
     for (int i = 0; i < n; ++i)
@@ -63,7 +66,7 @@ void printArray(int arr[], int n)
     cout << "\n";
 }
  
-// Driver program
+// Driver program within getch character while loop 
 int main()
 
     heapSort(arr, n);
